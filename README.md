@@ -528,13 +528,13 @@ SOFTWARE.
 
 ## 📧 Contact
 
-**Project Maintainer**: Masthan
+**Project Maintainer**: Susreel Somavarapu
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@Susreel7](https://github.com/Susreel7)
+- Email: susreel.somavarapu@gmail.com
+- LinkedIn: [Susreel Somavarapu](https://linkedin.com/in/susreel-somavarapu)
 
-**Project Link**: [https://github.com/yourusername/neurostroke-ai](https://github.com/yourusername/neurostroke-ai)
+**Project Link**: [https://github.com/yourusername/neurostroke-ai](https://github.com/Susreel7/neurostroke-ai)
 
 ---
 
