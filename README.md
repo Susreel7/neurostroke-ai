@@ -534,7 +534,7 @@ SOFTWARE.
 - Email: susreel.somavarapu@gmail.com
 - LinkedIn: [Susreel Somavarapu](https://linkedin.com/in/susreel-somavarapu)
 
-**Project Link**: [https://github.com/yourusername/neurostroke-ai](https://github.com/Susreel7/neurostroke-ai)
+**Project Link**: [https://github.com/Susreel7/neurostroke-ai](https://github.com/Susreel7/neurostroke-ai)
 
 ---
 
