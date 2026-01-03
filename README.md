@@ -53,12 +53,13 @@ Early detection is crucial for effective treatment and improved recovery outcome
 ## ✨ Key Features
 
 - 🔬 **Deep Learning Model**: CNN-based architecture with VGG19 transfer learning
-- 🎯 **High Accuracy**: Trained on thousands of labeled CT scan images
+- 🎯 **Neural Focus Map (Grad-CAM)**: Visualizes the regions of the CT scan the model focuses on for its prediction
+- 📊 **Research Insights Dashboard**: Interactive visualizations of dataset statistics and model performance
+- 📝 **Research Paper Generator**: Automatically generates a draft research abstract based on results
+- 📚 **Literature Review**: Curated list of academic papers related to AI in stroke detection
 - 🚀 **Real-time Predictions**: Instant stroke detection from uploaded images
-- 💻 **Interactive Web Interface**: Built with Streamlit for easy accessibility
-- 📊 **Confidence Scores**: Provides prediction confidence for medical review
-- 🔄 **Data Augmentation**: Enhanced model generalization through image transformations
-- 📈 **Model Evaluation**: Comprehensive metrics including accuracy, precision, and recall
+- 💻 **Premium Interactive UI**: Modern, responsive interface built with Streamlit and custom CSS
+- 📈 **Model Evaluation**: Comprehensive metrics including accuracy, precision, recall, and F1-score
 
 ---
 
